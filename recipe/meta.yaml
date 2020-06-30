@@ -1,8 +1,8 @@
 {% set name = "twython" %}
-{% set version = "3.7.0" %}
+{% set version = "3.8.2" %}
 {% set bundle = "tar.gz" %}
 {% set hash_type = "sha256" %}
-{% set hash = "24ae29b4dd8d69df81707eb5fb7a1babd6689a3d69cd618f0647997d6179d338" %}
+{% set hash = "c6ca64309260e0ab47267f76217c80812f591991437f376fc61498816384f9e7" %}
 
 package:
   name: {{ name|lower }}
